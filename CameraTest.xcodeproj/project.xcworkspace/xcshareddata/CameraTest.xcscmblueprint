@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C6E242AFAA210F4F9F75BD81D5525BF6E212113B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C6E242AFAA210F4F9F75BD81D5525BF6E212113B" : 0,
+    "2F50AA83D9D36421C433B08E064DA80EEB0F10DD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B7094EE5-2285-45D1-8D7A-AA164706CEB1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C6E242AFAA210F4F9F75BD81D5525BF6E212113B" : "CameraAppParse\/",
+    "2F50AA83D9D36421C433B08E064DA80EEB0F10DD" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CameraTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CameraTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dtfung\/Parse.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F50AA83D9D36421C433B08E064DA80EEB0F10DD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dtfung\/CameraAppParse.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C6E242AFAA210F4F9F75BD81D5525BF6E212113B"
+    }
+  ]
+}
